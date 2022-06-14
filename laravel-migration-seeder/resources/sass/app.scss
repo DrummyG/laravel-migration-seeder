@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: cadetblue;
+    justify-content: center;
+    gap: 40px;
+
+    div{
+        width: 40%;
+        background-color: rgb(73, 135, 188);
+        padding: 20px;
+    }
+}
